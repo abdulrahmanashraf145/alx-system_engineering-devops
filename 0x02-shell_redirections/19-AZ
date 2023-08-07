@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Input" | sed 's/A/Z/g' | sed 's/c/e/g'
